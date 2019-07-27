@@ -1,0 +1,35 @@
+#logoj
+{font-weight: 70px;
+    height: 65px;
+
+}
+.t1{
+    background:black;
+    opacity: 10px;
+}
+
+h5{
+    color: white;
+}
+  .gallery
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-style: solid;
+  }
+h1{
+   
+        color: white;
+        font-style: italic;
+        font-size: 80px;
+     
+}
+
+header{
+  height: 80vh;
+  background-image: url("jewelry-logo-design-template-circle-ring-vector-11980628.jpg");
+  background-size: cover;
+  background-position: center;
+}
